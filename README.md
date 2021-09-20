@@ -83,3 +83,9 @@ As most purchases came from Campaign C (with less money spend), we should focus 
 * We should increase the number of ad exposure (impressions) since it's highly correlated with total conversion rate. 
 
 * Therefore, it would be a good idea to use inexpensive ads with high exposure to get potential customers to enquire about the product. Other marketing strategies could be used to get them to buy the product. I.e: pricing strategy, brand image, market positioning, quality.
+
+## Models
+
+-Linear Regression
+
+-Random Forest Regressor
